@@ -1,0 +1,9 @@
+* cl-dns-proxy
+
+A bounded caching DNS proxy with UDP and TCP listeners for Common Lisp.
+
+|---------+-------------------------------------------------+
+| source  | git:https://github.com/atgreen/cl-dns-proxy.git |
+| commit  | 0000000                                         |
+| systems | cl-dns-proxy                                    |
+|---------+-------------------------------------------------+
